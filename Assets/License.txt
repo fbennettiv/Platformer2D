@@ -1,0 +1,8 @@
+Name: Platformer Pack Redux
+Owner: Kenney Vlogels
+Website: https://kenney.nl/assets/platformer-pack-redux
+Price: Free
+Copyright: Creative Commons CC0
+Date: 9/6/2023
+Time 7:15 PM
+---
